@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: rgba(0, 0, 0, 0.835);
+}
+/* Log in form  */
+.loginBtn, .signupBtn {
+	border-radius: 15px;
+}
